@@ -1,2 +1,2 @@
 # tashkilat12
-ashq sine 
+ashq 
